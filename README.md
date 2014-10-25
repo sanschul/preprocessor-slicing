@@ -3,9 +3,9 @@ Preprocessor Slicing
 
 Research tool for slicing C code that contains preprocessor directives.
 
-Usage:
+Usage (requires [SBT](http://www.scala-sbt.org/) installed):
 
-Compile and run
+Compile and run the program
 ```
 sbt run
 ```
